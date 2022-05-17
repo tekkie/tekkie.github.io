@@ -1,12 +1,12 @@
 ---
 layout: default
-title: ASML GmbH # (2018 - )
+title: ASML Holding N.V. # (2018 - )
 parent: Experience
 grand_parent: CV
 nav_order: 1
 has_children: false
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
-# permalink: /
+description: "work experience at ASML Veldhoven (global headquarters)"
+permalink: /cv/experience/asml-gmbh/
 ---
 
 ## Infrastructure Software Architect, Digital Platform Group

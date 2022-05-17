@@ -4,6 +4,7 @@ title: Education
 parent: CV
 nav_order: 2
 has_children: false
+permalink: /cv/education/
 ---
 
 ## Technical University of Cluj-Napoca
@@ -39,5 +40,5 @@ September 1994 – July 1998
 Highschool
 {: .fs-6 }
 
-- Graduated magna cum laudae.
-- Participated at the Romanian national Mathematics olympiad, along with numerous other regional mathematics competitions.
+- Graduated *magna cum laudae*.
+- Participant in the Romanian national Mathematics olympiad, along with numerous other regional mathematics competitions.

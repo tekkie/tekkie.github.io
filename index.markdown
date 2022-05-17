@@ -16,14 +16,17 @@ Living in beautiful Veldhoven, Noord-Brabant with my amazing 8 year-old son Geor
 
 
 ## 19 years on the tech scene
-Delivering business value for almost two decades.
+Delivering business value at the right time for almost two decades.
 {: .fs-6 .fw-300 }
 
 [Experience](/cv){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
-## Delivered well-crafted, scalable, resilient software across travel, real-estate, shopping, and industrial sectors
+<br /><br />
+<hr />
 
-From the Romanian [funda.nl](www.funda.nl), comparison shopping portals, to revamping internal and public-facing software of a [US airline company](www.allegiant.com), numerous on-prem AI projects, and more recently [chip manufacturing industry](www.asml.com), I bring passion, competence, and expertise to deliver the right product on time in the market to solve the right business needs at the right time.
+## Delivered well-crafted, scalable, resilient software across travel, real-estate, shopping, and semiconductor industries
+
+From the Romanian [funda.nl](www.funda.nl), comparison shopping portals, to revamping internal and public-facing software of a [US airline company](www.allegiant.com), numerous on-prem AI projects, and more recently [chip manufacturing industry](www.asml.com), I bring passion, competence, and expertise to deliver the right product on time in the market to solve the right business needs.
 
 [Checkout some of my projects](/projects){: .btn .fs-5 .mb-4 .mb-md-0 }
 

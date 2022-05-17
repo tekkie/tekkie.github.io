@@ -3,7 +3,7 @@ layout: default
 title: CV
 nav_order: 2
 has_children: true
-# permalink: /docs/ui-components
+permalink: /cv/
 ---
 
 Expertise in software system architecture and design. Product-centric mindset.
