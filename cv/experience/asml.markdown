@@ -5,7 +5,7 @@ parent: Experience
 grand_parent: CV
 nav_order: 1
 has_children: false
-description: "work experience at ASML Veldhoven (global headquarters)"
+description: "Georgiana Gligor's work experience at ASML Veldhoven (global headquarters)"
 permalink: /cv/experience/asml-gmbh/
 ---
 

@@ -5,7 +5,7 @@ parent: Experience
 grand_parent: CV
 nav_order: 3
 has_children: false
-description: "work experience running my own company, Tekkie Consulting, for over 7 years"
+description: "Georgiana Gligor's work experience as a subcontractor delivering allegiant.com complete revamp"
 # permalink: /
 ---
 

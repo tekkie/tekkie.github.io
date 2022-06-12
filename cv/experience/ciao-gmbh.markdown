@@ -5,7 +5,7 @@ parent: Experience
 grand_parent: CV
 nav_order: 7
 has_children: false
-description: "comparison shopping portal development, ciao.com"
+description: "Georgiana Gligor's work experience at European-wide comparison shopping portal ciao.com"
 permalink: /cv/experience/ciao-gmbh/
 ---
 

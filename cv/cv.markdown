@@ -4,6 +4,7 @@ title: CV
 nav_order: 2
 has_children: true
 permalink: /cv/
+description: Online Curriculum Vitae of Georgiana Gligor
 ---
 
 Expertise in software system architecture and design. Product-centric mindset.

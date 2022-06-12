@@ -5,6 +5,7 @@ parent: CV
 nav_order: 2
 has_children: false
 permalink: /cv/education/
+description: Education of Georgiana Gligor
 ---
 
 ## Technical University of Cluj-Napoca

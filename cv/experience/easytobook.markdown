@@ -5,8 +5,7 @@ parent: Experience
 grand_parent: CV
 nav_order: 4
 has_children: false
-description: "work experience running my own company, Tekkie Consulting, for over 7 years"
-# permalink: /
+description: "Georgiana Gligor's work experience at a booking.com competitor in Amsterdam"
 ---
 
 ## Senior Application Developer

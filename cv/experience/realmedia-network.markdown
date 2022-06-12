@@ -5,7 +5,7 @@ parent: Experience
 grand_parent: CV
 nav_order: 6
 has_children: false
-description: "technical refactoring of leading Romanian real estate portal, imobiliare.ro"
+description: "Georgiana Gligor's work experience leading the technical refactoring of largest Romanian real estate portal, imobiliare.ro (similar to funda.nl, rightmove.co.uk)"
 # permalink: /
 ---
 
