@@ -1,0 +1,62 @@
+@startuml use_cases
+
+skinparam defaultFontName Arial
+skinparam actorStyle awesome
+!theme plain
+!pragma teoz true
+
+left to right direction
+
+actor planner
+actor reader
+
+rectangle "Singular\nOccurence\nEvents" as SOE {
+
+    rectangle "Timezone\naware" as SOETZ {
+        usecase UCS1 as "create event
+            starting at date + time
+            with specified duration
+            in timezone"
+        usecase UCS2 as "create event
+            for one or more 
+            consecutive workdays
+            in timezone"
+    }
+
+    rectangle "Relative to\nlocal timezone" as SOEL {
+        usecase UCS3 as "create event
+            starting at date + time
+            with specified duration
+            relative to local timezone"
+
+    }
+
+    note right of SOEL: (diet plan)\nlunch at 11.55\ndinner at 18:30
+}
+
+rectangle "Recurring\nEvents" {
+    usecase UCR1 as "extends with
+        recurrence 
+        pattern"
+
+    usecase UCR2 as "extends with
+        recurrence 
+        pattern"
+
+    usecase UCR3 as "extends with
+        recurrence 
+        pattern"
+}
+
+planner --> UCS1 #green;line.bold;text:green : plans
+planner --> UCR1 #green;line.bold;text:green : plans
+planner --> UCS2 #green;line.bold;text:green : plans
+planner --> UCR2 #green;line.bold;text:green : plans
+planner --> UCS3 #green;line.bold;text:green : plans
+planner --> UCR3 #green;line.bold;text:green : plans
+
+UCS1 <|-- UCR1 #line.dotted : extends
+UCS2 <|-- UCR2 #line.dotted : extends
+UCS3 <|-- UCR3 #line.dotted : extends
+
+@enduml
