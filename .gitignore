@@ -7,3 +7,4 @@ vendor/
 
 .vscode/
 .bundle/
+**/.DS_Store
